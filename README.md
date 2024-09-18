@@ -21,7 +21,7 @@ I invite you to fork it, break it, improve it—whatever sparks your curiosity! 
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/yourusername/browser-arcade.git
+   git clone https://github.com/space-partz/Dont-know-what.git
    ```
 
 2. **Open in Your Browser**  
