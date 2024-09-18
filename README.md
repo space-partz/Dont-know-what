@@ -1,5 +1,9 @@
 # README for Browser Arcade
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/space-partz)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/space-partz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/space-partz)
+
 🎮 **Browser Arcade** 🎮  
 Welcome to *Browser Arcade*! This project came to life from a series of creative prompts, keen observations, and a few fun adjustments. It’s a lighthearted way to rediscover those little moments of joy—like finding your purpose through the games we loved as kids or the ones we still play to unwind.
 
